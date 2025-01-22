@@ -1,0 +1,13 @@
+
+/* Zalomování obrázků produktu v košíku a detailu produktu */
+@media(max-width: 576px) {
+    .first-pic-container {
+        text-align: center;
+    }
+}
+
+@media(max-width: 768px) {
+.first-pic-container {
+  text-align: center;
+}
+}
