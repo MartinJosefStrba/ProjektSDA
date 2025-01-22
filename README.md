@@ -1,0 +1,2 @@
+# ProjektSDA
+Závěrečný projekt rekvalifikace
